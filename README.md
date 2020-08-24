@@ -2,11 +2,12 @@
   <h2>Eldo Lopes</h2>  
   <h4>Student of Analysis and Systems Development</h4>
   <p>Student Full-Stack JavaScript, Node.js, React, React Native</p>
-  <p><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width=40 height=40 ctarget='_blank' name="link" class="toggleLink">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" width=40 height=40 ctarget='_blank' name="link" class="toggleLink">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" width=40 height=40 ctarget='_blank' name="link" class="toggleLink">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width=40 height=40 ctarget='_blank' name="link">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width=40 height=40 ctarget='_blank' name="link" class="toggleLink"></p>
+  <p>
+    <a href="https://github.com/topics/javascript" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width=40 height=40 ctarget='_blank' name="link" class="toggleLink">
+  <a href="https://github.com/topics/nodejs"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" width=40 height=40 ctarget='_blank' name="link" class="toggleLink">
+  <a href="https://github.com/topics/express" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" width=40 height=40 ctarget='_blank' name="link" class="toggleLink">
+  <a href="https://github.com/topics/react" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width=40 height=40 ctarget='_blank' name="link">
+ <a href="https://github.com/topics/bootstrap" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width=40 height=40 ctarget='_blank' name="link" class="toggleLink"></p>
   
   <p>Starting a new career as a web developer. I hope to contribute to society with this new experience.</p>
 </article>
