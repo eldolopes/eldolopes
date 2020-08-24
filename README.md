@@ -6,7 +6,7 @@
 </article>
 
 <p> <a href="https://www.linkedin.com/in/eldo-lopes-572a21a0/" rel="nofollow"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width=60 height=40 >   
-<a href="eldolopes@gmail.com" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1200px-New_Logo_Gmail.svg.png" alt="Gmail" width=60 height=40 ></p>
+<a href="http://gmail.com/eldolopes@gmail.com" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1200px-New_Logo_Gmail.svg.png" alt="Gmail" width=60 height=40 ></p>
 
 
   
