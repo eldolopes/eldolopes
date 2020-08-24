@@ -1,7 +1,7 @@
 <article>
   <h2>Eldo Lopes</h2>
-  <p>Student Analysis and Systems Development</p>
-  <p>Student JavaScript, Node.js, React, React Native</p>
+  <p>Student of Analysis and Systems Development</p>
+  <p>Student of JavaScript, Node.js, React, React Native</p>
   <p>Starting a new career as a web developer. I hope to contribute to society with this new experience.</p>
 </article>
 
