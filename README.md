@@ -5,10 +5,7 @@
   <p>Starting a new career as a web developer. I hope to contribute to society with this new experience.</p>
 </article>
 
-<p> <a href="https://www.linkedin.com/in/eldo-lopes-572a21a0/" rel="nofollow"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width=60 height=40 >   
-<a href="http://gmail.com/eldolopes@gmail.com" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1200px-New_Logo_Gmail.svg.png" alt="Gmail" width=60 height=40 ></p>
-
-
+<p> <a href="https://www.linkedin.com/in/eldo-lopes-572a21a0/" rel="nofollow"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width=60 height=40 > 
   
 <!--
 **eldolopes/eldolopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
