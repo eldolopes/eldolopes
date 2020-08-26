@@ -1,7 +1,7 @@
 <article>
   <h2>Eldo Lopes</h2>  
   <h4>Systems Analysis and Development Student</h4>
-  <h4>Student Full-Stack JavaScript, Node.js, React, React Native</h4>
+  <h4>Full-Stack JavaScript, Node.js, React, React Native Student</h4>
   <p>
     <a href="https://github.com/topics/javascript" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width=40 height=40 ctarget='_blank' name="link" class="toggleLink"></a>
   <a href="https://github.com/topics/nodejs"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" width=40 height=40 ctarget='_blank' name="link" class="toggleLink"></a>
