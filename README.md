@@ -1,7 +1,6 @@
 <article>
   <h2>Eldo Lopes</h2>  
-  <h4>✓ Certified Tech Developer na Digital House. Student</h4>
-  <h4>✓ Curso Web Moderno com JavaScript. Udemy</h4>
+  <h4>✓ Certified Tech Developer Student at Digital House.</h4>
   <p>
     <a href="https://github.com/topics/javascript" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width=30 height=30 ctarget='_blank' name="link" class="toggleLink"></a>
   <a href="https://github.com/topics/nodejs"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" width=30 height=30 ctarget='_blank' name="link" class="toggleLink"></a>
