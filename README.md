@@ -5,7 +5,6 @@
   <a href="https://github.com/topics/javascript" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width=30 height=30 ctarget='_blank' name="link" class="toggleLink"></a>
   <a href="https://github.com/topics/nodejs"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" width=30 height=30 ctarget='_blank' name="link" class="toggleLink"></a>
   <a href="https://github.com/topics/express" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" width=30 height=30 ctarget='_blank' name="link" class="toggleLink"></a>
-  <a href="https://github.com/topics/react" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width=30 height=30 ctarget='_blank' name="link"></a>
   <a href="https://github.com/topics/bootstrap" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width=30 height=30 ctarget='_blank' name="link" class="toggleLink"></a>
   </div>
 </article> 
